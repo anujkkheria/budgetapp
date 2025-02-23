@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <Box className='size-3/4 bg-slate-100 rounded-md shadow-xl flex justify-center items-center flex-col p-3 border-[5px] border-black'>
       <h2 className='text-center font-bold'>Login</h2>
-      <form action='' className='size-full flex flex-col  gap-4 p-2'>
+      <form action='' className='size-full flex flex-col gap-4 p-2'>
         <Input />
         <Input />
         <Box className='flex'>
